@@ -1,0 +1,57 @@
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\bin\Release\Anystore.exe.config
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\bin\Release\Database1.mdf
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\bin\Release\Database1_log.ldf
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\bin\Release\Anystore.exe.manifest
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\bin\Release\Anystore.application
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\bin\Release\Anystore.exe
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\bin\Release\Anystore.pdb
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmGst.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.frmAdminDashboard.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmAdminDashboardNew.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmCatagories.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmDeaCust.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmInventory.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmLogin.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmProducts.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmPurchaseAndSales.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmTransaction.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.frmUserDashboard.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.Properties.Resources.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmUsers.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.splash.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.userDashboardNew.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.csproj.GenerateResource.Cache
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.exe.manifest
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.application
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.exe
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.pdb
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.csprojResolveAssemblyReference.cache
+D:\Company\Projects\Anystore - Copy\Anystore\bin\Release\Database1.mdf
+D:\Company\Projects\Anystore - Copy\Anystore\bin\Release\Database1_log.ldf
+D:\Company\Projects\Anystore - Copy\Anystore\bin\Release\Anystore.exe.config
+D:\Company\Projects\Anystore - Copy\Anystore\bin\Release\Anystore.exe.manifest
+D:\Company\Projects\Anystore - Copy\Anystore\bin\Release\Anystore.application
+D:\Company\Projects\Anystore - Copy\Anystore\bin\Release\Anystore.exe
+D:\Company\Projects\Anystore - Copy\Anystore\bin\Release\Anystore.pdb
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmGst.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.frmAdminDashboard.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmAdminDashboardNew.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmCatagories.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmDeaCust.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmInventory.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmLogin.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmProducts.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmPurchaseAndSales.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmTransaction.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.frmUserDashboard.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.Properties.Resources.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.frmUsers.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.splash.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.UI.userDashboardNew.resources
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.csproj.GenerateResource.cache
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.csproj.CoreCompileInputs.cache
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.exe.manifest
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.application
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.exe
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.pdb
+D:\Company\Projects\Anystore - Copy\Anystore\obj\Release\Anystore.csproj.AssemblyReference.cache

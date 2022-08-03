@@ -1,0 +1,39 @@
+c:\users\tufan\documents\visual studio 2015\Projects\Anystore\Anystore\bin\Debug\Anystore.exe.config
+c:\users\tufan\documents\visual studio 2015\Projects\Anystore\Anystore\bin\Debug\Anystore.exe
+c:\users\tufan\documents\visual studio 2015\Projects\Anystore\Anystore\bin\Debug\Anystore.pdb
+c:\users\tufan\documents\visual studio 2015\Projects\Anystore\Anystore\obj\Debug\Anystore.csprojResolveAssemblyReference.cache
+c:\users\tufan\documents\visual studio 2015\Projects\Anystore\Anystore\obj\Debug\Anystore.frmAdminDashboard.resources
+c:\users\tufan\documents\visual studio 2015\Projects\Anystore\Anystore\obj\Debug\Anystore.Properties.Resources.resources
+c:\users\tufan\documents\visual studio 2015\Projects\Anystore\Anystore\obj\Debug\Anystore.csproj.GenerateResource.Cache
+c:\users\tufan\documents\visual studio 2015\Projects\Anystore\Anystore\obj\Debug\Anystore.exe
+c:\users\tufan\documents\visual studio 2015\Projects\Anystore\Anystore\obj\Debug\Anystore.pdb
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore\Anystore\obj\Debug\Anystore.frmUserDashboard.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore\Anystore\obj\Debug\Anystore.UI.frmUsers.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\bin\Debug\Anystore.exe.config
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.exe
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.pdb
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\bin\Debug\Anystore.exe
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\bin\Debug\Anystore.pdb
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.csprojResolveAssemblyReference.cache
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.frmAdminDashboard.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.frmUserDashboard.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.Properties.Resources.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.UI.frmUsers.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.csproj.GenerateResource.Cache
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\bin\Debug\Database1.mdf
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\bin\Debug\Database1_log.ldf
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\bin\Debug\Anystore.exe.manifest
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\bin\Debug\Anystore.application
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.exe.manifest
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.application
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.UI.frmLogin.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.UI.frmCatagories.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.UI.frmProducts.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.UI.frmDeaCust.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.UI.frmPurchaseAndSales.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.UI.frmInventory.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.UI.frmTransaction.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.UI.frmGst.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.UI.frmAdminDashboardNew.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.UI.splash.resources
+C:\Users\Tufan\Documents\Visual Studio 2015\Projects\Anystore - Copy\Anystore\obj\Debug\Anystore.UI.userDashboardNew.resources
